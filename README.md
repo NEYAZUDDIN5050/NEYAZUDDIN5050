@@ -2,10 +2,6 @@
 
 ### A Enthusiastic developers
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NEYAZUDDIN5050&label=Profile views&color=0e75b6&style=flat" alt="NEYAZUDDIN5050" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEYAZUDDIN5050" > </p>
-
 - 🔭 I'm currently working on **Real time chat Application called "chikchik".**
 
 - 🌱 I'm currently learning **Backend Technology**
