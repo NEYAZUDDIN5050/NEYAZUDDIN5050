@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEYAZUDDIN5050&label=Profile views&color=0e75b6&style=flat" alt="NEYAZUDDIN5050" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEYAZUDDIN5050" alt="NEYAZUDDIN5050" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEYAZUDDIN5050" > </p>
 
 - 🔭 I'm currently working on **Real time chat Application called "chikchik".**
 
@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NEYAZUDDIN5050&show_icons=true&locale=en" alt="NEYAZUDDIN5050" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NEYAZUDDIN5050&" alt="NEYAZUDDIN5050" /></p>
+
 
